@@ -169,3 +169,14 @@ We welcome contributions to the WordSmith API! Please follow these steps to cont
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+
+## Todo
+
+### Tasks to Complete
+
+1. **Add Feature to Like the Post**
+    * Description: Implement a feature that allows users to like a post
+    * Status: Not Started
+2. **Add Feature to Count the Number of Views**
+    * Description: Implement a feature that counts and displays the number of views for each post
+    * Status: Not Started
